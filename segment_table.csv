@@ -1,0 +1,5 @@
+leverage_seg,sentiment,avg_pnl,win_rate,avg_trades
+High Leverage,Fear,-2763.37,0.47,17.78
+High Leverage,Greed,-562.81,0.54,22.14
+Low Leverage,Fear,-46.64,0.42,34.83
+Low Leverage,Greed,7550.33,0.67,86.53

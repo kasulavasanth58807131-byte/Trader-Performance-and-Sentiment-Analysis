@@ -1,0 +1,4 @@
+sentiment,days,account_days,avg_pnl,median_pnl,win_rate,avg_trades,avg_size_usd,avg_ls_ratio
+Fear,59,107,-960.68,0.0,44.0%,29.09,5204.23,7.34
+Greed,210,662,5344.34,265.25,63.0%,69.02,6250.3,8.96
+Neutral,72,126,1362.7,0.0,46.0%,29.3,5966.01,4.96
